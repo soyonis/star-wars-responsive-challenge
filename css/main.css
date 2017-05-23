@@ -42,3 +42,7 @@ p {
 .card-content {
   padding: 20px;
 }
+
+.category {
+  padding-left: 0;
+}
